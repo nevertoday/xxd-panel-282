@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 282"
+  short_description: "柔焦有机：上半保留原照，下半把主体收成乳白柔焦的有机标识"
+  default_prompt: "Use $xxd-panel-282 to transform my photograph following the complete canonical source brief."
