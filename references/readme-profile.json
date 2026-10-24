@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 282｜Soft-focus Organic: keeps the photo and distils its subject into one small abstract identity mark that hints at its source without copying it — a building becomes a structural sign, a plant a growth form, a person a remembered outline — built from translucent overlapping layers, soft-focus diffusion, a few raster fragments and organic curves with controlled asymmetry, in a low-contrast milky pastel palette (milk white, nude pink, misty pink, grey-green, pale olive, soft wine, pale blue) from the photo, centred and balanced in generous whitespace with a few fine lines or circular orbits and tiny sans-serif lettering kept at a distance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-282 or asks for a soft-focus organic logo, translucent pastel symbol or ethereal abstract mark from a photo.",
+  "short_description": "柔焦有机：把照片主体柔化成一枚半透明叠层、乳白粉彩的抽象标识",
+  "zh-CN": {
+    "name": "柔焦有机",
+    "tagline": "把照片主体柔化成一枚半透明叠层、乳白粉彩的抽象小标识。",
+    "look": "原照片保留；主体不被具体描摹，而是变成它的象征：建筑成为结构符号，植物成为生长形态，人物成为轮廓记忆，看得出来源，但不是复制。形体由半透明的层层叠加、柔焦扩散、少量像素碎片和有机曲线组成，略带不对称。颜色是低对比、像经过柔光的乳白、裸粉、雾粉、灰绿、浅橄榄、柔和酒红和淡蓝。标识完整、居中、不大，周围大片留白，可有几条细线或圆形轨迹，极小的无衬线字与它保持距离。",
+    "traits": ["半透明叠层", "柔焦扩散", "乳白粉彩", "有机轮廓", "抽象标识"],
+    "good": [
+      "形态柔和、有生长感的主体：一朵花、一片叶、一颗果实、一团云",
+      "颜色淡、光线柔的照片：晨雾里的湖、窗边的纱帘、浅色建筑",
+      "想做成护肤、香氛、花店或设计工作室标识的照片"
+    ],
+    "poor": [
+      "希望一眼认出具体对象的需求，结果是有距离感的抽象符号",
+      "高对比、色彩浓烈或暗沉的照片，会被改成柔和的浅色",
+      "想要霓虹、强渐变、商业插画或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Soft-focus Organic",
+    "tagline": "Softens the subject of your photo into one small abstract mark of translucent layers and milky pastels.",
+    "look": "Your photo stays; the subject is not traced but turned into its symbol: a building becomes a structural sign, a plant a growth form, a person a remembered outline, recognisable in origin but not a copy. The shape is made of translucent overlapping layers, soft-focus diffusion, a few raster fragments and organic curves with slight asymmetry. Colours are low-contrast and gently filtered: milk white, nude pink, misty pink, grey-green, pale olive, soft wine and pale blue. The mark is whole, centred and modest in size within wide whitespace, perhaps with a few fine lines or circular orbits, and tiny sans-serif lettering kept at a distance.",
+    "traits": ["Translucent layers", "Soft-focus diffusion", "Milky pastels", "Organic outline", "Abstract mark"],
+    "good": [
+      "Soft subjects with a sense of growth: a flower, a leaf, a piece of fruit, a cloud",
+      "Pale, softly lit photos: a lake in morning mist, a sheer curtain by a window, a light-coloured building",
+      "Photos you want as the identity of a skincare, fragrance, florist or design studio brand"
+    ],
+    "poor": [
+      "Wanting the exact object to be instantly recognisable, since the result is a distant abstract symbol",
+      "High-contrast, intensely coloured or dark photos, which are shifted to soft pale tones",
+      "Requests for neon, strong gradients, commercial illustration or cartoons"
+    ]
+  },
+  "ja": {
+    "name": "ソフトフォーカスの有機",
+    "tagline": "写真の主役を、半透明の重なりと乳白色のパステルでできた小さな抽象マークにやわらげます。",
+    "look": "元の写真は残し、主役をそのまま描くのではなく、その象徴に変えます。建物は構造の記号に、植物は成長の形に、人物は記憶の中の輪郭になり、出どころはわかっても写しではありません。形は半透明の層の重なり、ソフトフォーカスのにじみ、わずかなピクセルの断片、有機的な曲線でできていて、少し非対称です。色はコントラストが低く、やわらかな光を通したような乳白、ヌードピンク、霧のピンク、灰緑、淡いオリーブ、柔らかなワインレッド、淡い青です。マークは欠けずに中央に、大きすぎず置かれ、まわりは広い余白で、細い線や円の軌跡が少しあり、ごく小さなサンセリフの文字が距離をとって添えられます。",
+    "traits": ["半透明の重なり", "ソフトフォーカス", "乳白のパステル", "有機的な輪郭", "抽象マーク"],
+    "good": [
+      "やわらかく成長を感じる主役：一輪の花、一枚の葉、果実、雲",
+      "色が淡く光のやわらかな写真：朝霧の湖、窓辺のレースカーテン、淡い色の建物",
+      "スキンケア、香水、花屋、デザイン事務所のロゴにしたい写真"
+    ],
+    "poor": [
+      "具体的な対象をすぐ見分けたい場合（仕上がりは距離のある抽象記号です）",
+      "コントラストが強い写真、色が濃い写真、暗い写真（やわらかな淡い色に変わります）",
+      "ネオン、強いグラデーション、商業イラスト、キャラクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소프트 포커스 유기체",
+    "tagline": "사진 속 주인공을 반투명한 겹침과 우윳빛 파스텔로 된 작은 추상 마크로 부드럽게 바꿉니다.",
+    "look": "원본 사진은 남기고, 주인공을 그대로 그리지 않고 그 상징으로 바꿉니다. 건물은 구조의 기호로, 식물은 자라는 형태로, 사람은 기억 속 윤곽으로 바뀌어, 출처는 짐작되지만 복제는 아닙니다. 형태는 반투명한 층의 겹침, 소프트 포커스 번짐, 약간의 픽셀 조각, 유기적인 곡선으로 이루어지고 살짝 비대칭입니다. 색은 대비가 낮고 부드러운 빛을 거친 듯한 우윳빛, 누드 핑크, 안개 핑크, 회녹색, 연한 올리브, 부드러운 와인색, 연파랑입니다. 마크는 온전한 모습으로 가운데에 크지 않게 놓이고 주변은 넓은 여백이며, 가는 선이나 원형 궤적이 조금 있고 아주 작은 산세리프 글자가 거리를 두고 붙습니다.",
+    "traits": ["반투명 겹침", "소프트 포커스", "우윳빛 파스텔", "유기적 윤곽", "추상 마크"],
+    "good": [
+      "부드럽고 자라는 느낌의 주인공: 꽃 한 송이, 잎 한 장, 과일, 구름",
+      "색이 연하고 빛이 부드러운 사진: 아침 안개 낀 호수, 창가의 얇은 커튼, 밝은색 건물",
+      "스킨케어, 향수, 꽃집, 디자인 스튜디오의 아이덴티티로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "구체적인 대상을 바로 알아보길 원하는 경우(결과는 거리감 있는 추상 심벌입니다)",
+      "대비가 강하거나 색이 진하거나 어두운 사진(부드럽고 연한 색으로 바뀝니다)",
+      "네온, 강한 그라데이션, 상업 일러스트, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "العضوي بتركيز ناعم",
+    "tagline": "يليّن العنصر الرئيسي في صورتك ليصير علامة مجرّدة صغيرة من طبقات شفافة وألوان باستيل حليبية.",
+    "look": "تبقى صورتك، ولا يُنسخ العنصر بل يتحول إلى رمزه: يصير المبنى علامة بنيوية، والنبتة هيئة نموّ، والشخص خطاً خارجياً من الذاكرة، فيُعرف أصله دون أن يكون نسخة منه. يتكوّن الشكل من طبقات شفافة متراكبة وانتشار ضبابي ناعم وشظايا بكسل قليلة ومنحنيات عضوية فيها لا تماثل خفيف. الألوان منخفضة التباين كأنها مرّت عبر ضوء ناعم: أبيض حليبي ووردي بلون البشرة ووردي ضبابي وأخضر رمادي وزيتوني فاتح ونبيذي هادئ وأزرق باهت. العلامة مكتملة ومتوسطة الحجم في الوسط، وحولها فراغ واسع، مع خطوط رفيعة أو مدارات دائرية قليلة، وحروف صغيرة جداً بلا زوائد تبتعد عنها.",
+    "traits": ["طبقات شفافة", "انتشار ضبابي ناعم", "باستيل حليبي", "خطوط عضوية", "علامة مجرّدة"],
+    "good": [
+      "عناصر ناعمة فيها إحساس بالنمو: زهرة، ورقة شجر، ثمرة، غيمة",
+      "صور فاتحة الألوان ناعمة الإضاءة: بحيرة في ضباب الصباح، ستارة شفافة عند النافذة، مبنى فاتح اللون",
+      "صور تريدها هوية لعلامة عناية بالبشرة أو عطور أو محل زهور أو استوديو تصميم"
+    ],
+    "poor": [
+      "الرغبة في أن يُعرف الشيء نفسه فوراً، فالنتيجة رمز مجرّد بعيد",
+      "الصور عالية التباين أو شديدة الألوان أو الداكنة، إذ تتحول إلى درجات فاتحة ناعمة",
+      "طلب النيون أو التدرجات القوية أو الرسم التجاري أو الأسلوب الكرتوني"
+    ]
+  }
+}

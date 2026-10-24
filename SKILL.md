@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-282
-description: "Create XXD Panel 282 raster artwork: a faithful photograph paired with one soft neo-organic logo, translucent layers, milky pastel and a quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-282 or asks for this 柔焦有机 style."
+description: "XXD Panel 282｜Soft-focus Organic: keeps the photo and distils its subject into one small abstract identity mark that hints at its source without copying it — a building becomes a structural sign, a plant a growth form, a person a remembered outline — built from translucent overlapping layers, soft-focus diffusion, a few raster fragments and organic curves with controlled asymmetry, in a low-contrast milky pastel palette (milk white, nude pink, misty pink, grey-green, pale olive, soft wine, pale blue) from the photo, centred and balanced in generous whitespace with a few fine lines or circular orbits and tiny sans-serif lettering kept at a distance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-282 or asks for a soft-focus organic logo, translucent pastel symbol or ethereal abstract mark from a photo."
 ---
 
 # XXD Panel 282
